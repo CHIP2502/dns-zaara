@@ -68,13 +68,13 @@
 			<key>PayloadDisplayName</key>
 			<string>Chặn thu hồi ( No BlockAds ) ✅</string>
 			<key>PayloadIdentifier</key>
-			<string>khoindvn.bio.link.profile</string>
+			<string>zaara.bio.link.profile</string>
 			<key>PayloadOrganization</key>
 			<string>IG: zaara_hnimcr</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>dev.khoindvn.bio.link</string>
+			<string>dev.zaara.bio.link</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
